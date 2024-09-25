@@ -1,5 +1,5 @@
-# ☆ starg3n ☆
-Media and Video Game archive site
-  - sm64
-  - hl1
-  - 
+# ☆ starg3n homepage ☆
+☆ not like the other unblocked games sites ☆
+  - ☆ sm64 ☆
+  - ☆ hl1 ☆
+  - ☆ gba emulator ☆
