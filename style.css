@@ -1,9 +1,32 @@
-  body {background-color: Black;}
-  h1   {color: #FFE5B4; text-align: center;}
-  p    {color: #FFE5B4; text-align: center;}
-  b    {color: #FFE5B4; text-align: center;}
-  h3   {color: #FFE5B4; text-align: center;}
-  h2   {color: #FFE5B4; text-align: center;}
-  b    {color: #FFE5B4; text-align: center;}
-  i    {color: #FFE5B4; text-align: center;}
-  a    {color: #FFE5B4; text-align: center;}
+/*☆ this is so cleannnnnn ☆*/
+body {
+  margin: 25px;
+  background-color: black;
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+  color: #FFE5B4; 
+  text-align: center;
+}
+
+p {
+  color: #FFE5B4; 
+  text-align: center;
+}
+b {
+  color: #FFE5B4; 
+  text-align: center;
+}
+a {
+  color: #FFE5B4; 
+  text-align: center;
+}
+
+/* Applies to all elements with <... class="someclass"> specified. */
+.wrong { color: red; }
+.correct { color: green; }
