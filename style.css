@@ -15,14 +15,23 @@ h1 {
 }
 
 p {
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 5px;
   color: #FFE5B4; 
   text-align: center;
 }
 b {
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 5px;
   color: #FFE5B4; 
   text-align: center;
 }
 a {
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 5px;
   color: #FFE5B4; 
   text-align: center;
 }
