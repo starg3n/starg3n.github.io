@@ -35,6 +35,13 @@ a {
   color: #FFE5B4; 
   text-align: center;
 }
+button {
+  background-color: #a59079; /* Green */
+
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
 
 /* Applies to all elements with <... class="someclass"> specified. */
 .wrong { color: red; }
