@@ -60,6 +60,8 @@ button:active {
 .topnav {
   background-color: #A59079;
   overflow: hidden;
+  border-radius: 12px;
+  text-align: center;
 }
 
 /* Style the links inside the navigation bar */
