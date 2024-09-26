@@ -53,7 +53,7 @@ button:hover {
 }
 
 button:active {
-  transform: scale(1.2);
+  transform: scale(.8);
 }
 
 .wrong { color: red; }
