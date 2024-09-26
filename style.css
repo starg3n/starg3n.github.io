@@ -49,12 +49,31 @@ button {
 }
 
 button:hover {
-  box-shadow: 0 12px 16px 0 rgb(255, 229, 180), 0 17px 50px 0 rgb(165, 144, 121);
+  box-shadow: 0 12px 16px 0 rgb(255, 229, 180), 0 17px 50px 0 rgb(165, 144, 121); /* this was copy and pasted from another site */
 }
 
 button:active {
-  transform: scale(.8);
+  transform: scale(.8); /* make button smaller on click */
 }
 
-.wrong { color: red; }
-.correct { color: green; }
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #A59079;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FFE5B4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover 
+.topnav a:hover {
+  background-color: #FFE5B4;
+  color: black;
+} */ 
