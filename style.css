@@ -56,26 +56,12 @@ button:active {
   transform: scale(.8); /* make button smaller on click */
 }
 
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #A59079;
-  overflow: hidden;
-  border-radius: 12px;
-  text-align: center;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #FFE5B4;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover 
-.topnav a:hover {
+.navbar {
   background-color: #FFE5B4;
-  color: black;
-} */ 
+  margin: auto;
+  width: 50%;
+  border: none;
+  padding: 10px 28px;
+  text-align: center;
+  padding: 10px 28px;
+}
