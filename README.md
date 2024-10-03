@@ -8,10 +8,12 @@
   - ☆ gba emulator ☆
   - ☆ ds emulator ☆
   - ☆ ps1 emulator☆
+  - ☆ flash emulator ☆
+  - ☆ cookie clicker ☆
 
 ### to do:
   - [ ] add markdown editor
-  - [ ] more games
-  - [ ] something cool
+  - [X] more games
+  - [X] something cool
 
 this website is a work in progress, if anything isn't working, that means it's being updated.
