@@ -2,6 +2,9 @@
 
 ☆ no complicated UI ☆
 ---
+### before forking read this page:
+[starg3n github pages setup](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
+
 ### along with a nice interface, starg3n includes
   - ☆ sm64 ☆
   - ☆ hl1 ☆
