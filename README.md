@@ -1,4 +1,5 @@
-☆ homepage ☆
+# ☆ homepage ☆
+
 ☆ no complicated UI ☆
 ---
 ### along with a nice interface, starg3n includes
