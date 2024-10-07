@@ -14,6 +14,7 @@
   - ☆ ps1 emulator☆
   - ☆ flash emulator ☆
   - ☆ cookie clicker ☆
+  - ☆ spelunky ☆
 
 ### to do:
   - [ ] add markdown editor
