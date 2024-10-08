@@ -12,13 +12,11 @@ you need to fork:
 
 [ps1](https://github.com/starg3n/ps1)
 
-[spelunky](https://github.com/starg3n/spelunky)
-
 in each of these repos click _settings_, _pages_, then under _branch_, click "None" and change it to "main"
 
 ---
 
-once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba, ds, ps1, and spelunky links to what they are under your account. sm64, eagler, cookie, and flash do not need to be changed because they are in the **homepage** repo.
+once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba, ds, and ps1 links to what they are under your account. sm64, eagler, cookie, spelunky and flash do not need to be changed because they are in the **homepage** repo.
 
 (the other repos have a link back to starg3n, so you may need to change those as well)
 
