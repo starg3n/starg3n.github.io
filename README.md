@@ -17,10 +17,10 @@
   - ☆ spelunky ☆
 
 ### to do:
-  - [ ] game ports (celeste wasm?)
-  - [ ] maybe move all games to this repo so you don't need to fork all of the games :D
+  - [ ] more game ports (celeste wasm?)
+  - [ ] make the ui god-teir
   - [X] more games
-  - [X] Something cool
+  - [X] something cool
 
 this website is a work in progress, if anything isn't working, that means it's being updated.
-if you need help, make an ISSUE, or MESSAGE me on discord: **appakling**
+if you need help, make a DISCUSSION, or MESSAGE me on discord: **appakling**
