@@ -181,7 +181,7 @@ function registerBIOS() {
 function downloadROM(gamename) {
     Iodine.pause();
     showTempString("Downloading \"" + games[gamename] + ".\"");
-    downloadFile("Binaries/" + gamename + ".gba", registerROM);
+    downloadFile("https://starg3n.github.io/gba-alt/user_scripts/Binaries/" + gamename + ".gba", registerROM);
 }
 function registerROM() {
     clearTempString();
