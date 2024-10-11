@@ -1,6 +1,6 @@
 # ☆ homepage ☆
 
-☆ I'm gonna mess something up for sure ☆
+☆ now cooler than ever! ☆
 ---
 ### before forking read this:
 [starg3n github pages setup](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
