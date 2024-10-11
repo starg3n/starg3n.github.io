@@ -3,3 +3,5 @@
 current week: Oct 7 - October 13
 
 - spelunky added + made nice <3
+- gba broken and fixed (oct 10)
+- 1 page html games!!!!
