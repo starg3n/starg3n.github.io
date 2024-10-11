@@ -16,7 +16,9 @@ in each of these repos click _settings_, _pages_, then under _branch_, click "No
 
 ---
 
-once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba ds, and ps1 links to what they are under your account. sm64, eagler, cookie, spelunky and flash do not need to be changed because they are in the **homepage** repo.
+once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba ds, and ps1 links to what they are under your account. 
+
+**sm64, eagler, cookie, 1page html, pico 8, spelunky and flash do not need to be changed because they are in the *homepage* repo.**
 
 (the other repos have a link back to starg3n, so you may need to change those as well)
 
