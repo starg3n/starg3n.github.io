@@ -15,6 +15,8 @@
   - ☆ flash emulator ☆
   - ☆ cookie clicker ☆
   - ☆ spelunky ☆
+  - ☆ 1 page html games ☆
+  - ☆ pico-8 collection ☆
 
 ### to do:
   - [ ] more game ports (celeste wasm?)
