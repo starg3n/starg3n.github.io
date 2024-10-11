@@ -1,3 +1,4 @@
+<img src="https://starg3n.github.io/data/logo.png">
 # ☆ homepage ☆
 
 ☆ now cooler than ever! ☆
