@@ -5,3 +5,5 @@
 [picoplayer](https://github.com/egordorichev/pico-player/tree/master)
 
 [scm music](https://www.scmplayer.net/)
+
+[webdeck player](https://github.com/cristiancfm/webdeck-player/releases)
