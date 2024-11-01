@@ -12,6 +12,8 @@ you need to fork:
 
 [gba](https://github.com/starg3n/gba)
 
+[bitburner](https://github.com/starg3n/bitburner)
+
 in each of these repos click _settings_, _pages_, then under _branch_, click "None" and change it to "main"
 
 ---
