@@ -1,6 +1,7 @@
-<img src="https://starg3n.github.io/data/logo.png">
+<div text-align: center;>
+  <p>img src="https://starg3n.github.io/data/logo.png"><p>
 
-# ☆ homepage ☆
+# ☆ starg3n homepage ☆
 
 ☆ now cooler than ever! ☆
 ---
@@ -28,3 +29,4 @@
 
 this website is a work in progress, if anything isn't working, that means it's being updated.
 if you need help, make a DISCUSSION, or MESSAGE me on discord: **appakling**
+</div>
