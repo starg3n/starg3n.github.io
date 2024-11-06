@@ -1,7 +1,7 @@
 <div text-align: center;>
   <img src="https://starg3n.github.io/data/logo.png">
 
-# ☆ starg3n homepage ☆
+<h1  text-align: center>☆ starg3n homepage ☆</h1>
 
 ☆ now cooler than ever! ☆
 ---
