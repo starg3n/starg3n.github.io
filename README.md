@@ -1,5 +1,5 @@
 <div text-align: center;>
-  <p>img src="https://starg3n.github.io/data/logo.png"><p>
+  img src="https://starg3n.github.io/data/logo.png">
 
 # ☆ starg3n homepage ☆
 
