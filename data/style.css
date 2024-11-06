@@ -10,7 +10,7 @@ h1 {
   font-size: 35px;
   font-weight: normal;
   margin-top: 5px;
-  color: #f5e0dc; 
+  color: #f9e2af; 
   text-align: center;
 }
 
@@ -18,7 +18,7 @@ p {
   font-size: 20px;
   font-weight: normal;
   margin-top: 5px;
-  color: #f5e0dc; 
+  color: #f9e2af; 
   text-align: center;
 }
 
@@ -26,7 +26,7 @@ b {
   font-size: 20px;
   font-weight: normal;
   margin-top: 5px;
-  color: #f5e0dc; 
+  color: #f9e2af; 
   text-align: center;
 }
 
@@ -34,15 +34,15 @@ a {
   font-size: 20px;
   font-weight: normal;
   margin-top: 5px;
-  color: #f5c2e7; 
+  color: #f9e2af; 
   text-align: center;
 }
 
 button {
-  background-color: #f5e0dc;
+  background-color: #585b70;
   border-radius: 12px;
   border: none;
-  color: #45475a;
+  color: #f9e2af;
   padding: 10px 28px;
   font-size: 20px;
   text-align: center;
