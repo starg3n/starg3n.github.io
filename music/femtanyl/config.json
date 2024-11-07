@@ -1,0 +1,56 @@
+{
+    "title": "<3",
+    "media": [
+        {
+            "file": "M3 n MIN3",
+            "type": "audio",
+            "info": "",
+            "feature": true,
+            "title": "M3 n MIN3",
+            "cover": "m3nmin3.jpeg"
+        },
+        {
+            "file": "WORLDWID3",
+            "type": "audio",
+            "title": "WORLDWID3",
+            "cover": "WORLDWID3.jpg"
+        },
+        {
+            "file": "PUSH UP TEMPRR",
+            "type": "audio",
+            "title": "PUSH UP TEMPRR",
+            "cover": "TEMPRR.jpeg"
+        },
+        {
+            "file": "KATAMARI",
+            "type": "audio",
+            "title": "KATAMARI",
+            "cover": "katamari.jpeg"
+        }
+    ],
+    "cover": "m3nmin3.jpeg",
+    "theme": {
+        "titleStyle": "span",
+        "backgroundColor": "#170015",
+        "primaryColor": "#ffffff",
+        "primaryAltColor": "#838383",
+        "secondaryColor": "#000000",
+        "highlightColor": "#434343",
+        "primaryTextColor": "#ffffff",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#838383",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "overlayTextColor": "#ffffff",
+        "overlayBackgroundColor": "#00000080",
+        "hideInfoDropdown": false,
+        "contentWidth": "400",
+        "coverSize": "480",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": "some of my fave femtanyl songs!!!<br>",
+    "loopModeDefault": "none"
+}
