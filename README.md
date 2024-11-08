@@ -6,7 +6,7 @@
 ☆ now cooler than ever! ☆
 ---
 ### before forking read this:
-[starg3n github pages setup](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
+[starg3n fork setup](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
 
 ### resources starg3n has:
   - ☆ sm64 ☆
