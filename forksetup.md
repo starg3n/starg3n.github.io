@@ -1,6 +1,6 @@
-# so you want to make a starg3n mirror?
+# Starg3n Forking Guide
 
-you need to fork:
+# Fork the following Repos:
 
 [homepage](https://github.com/starg3n/starg3n.github.io)
 
@@ -18,12 +18,14 @@ in each of these repos click _settings_, _pages_, then under _branch_, click "No
 
 ---
 
+# Final Touches
+
 once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba ds, and ps1 links to what they are under your account. 
 
 **sm64, eagler, cookie, 1page html, pico 8, spelunky and flash do not need to be changed because they are in the *homepage* repo.**
 
 (the other repos have a link back to starg3n, so you may need to change those as well)
 
-**make sure when setting up ps1 the link includes PlayStation.htm at the end of the link**
+**make sure when setting up ps1 the link includes _PlayStation.htm_ at the end of the link**
 
 start an issue on the og starg3n repo or message appakling on discord for help!
