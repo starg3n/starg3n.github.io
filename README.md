@@ -24,10 +24,8 @@
   - ☆ sandboxels ☆
 
 ### to do:
-  - [ ] more game ports (celeste wasm?)
-  - [ ] make the ui god-teir
-  - [X] more games
-  - [X] something cool
+  - [ ] fix ui consistency
+  - [ ] finish music collections + add to homepage
 
 this website is a work in progress, if anything isn't working, that means it's being updated.
 if you need help, make a DISCUSSION, or MESSAGE me on discord: **appakling**
