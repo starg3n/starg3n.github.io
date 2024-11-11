@@ -3,7 +3,7 @@
 
 <h1  text-align: center>☆ starg3n homepage ☆</h1>
 
-☆ now cooler than ever! ☆
+☆ the freedom to play ☆
 ---
 ### before forking read this:
 [starg3n fork setup](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
