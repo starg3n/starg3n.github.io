@@ -14,6 +14,8 @@
 
 [bitburner](https://github.com/starg3n/bitburner)
 
+[sandboxels](https://github.com/starg3n/sandboxels) <- or just fork the latest sandboxels version
+
 in each of these repos click _settings_, _pages_, then under _branch_, click "None" and change it to "main"
 
 ---
