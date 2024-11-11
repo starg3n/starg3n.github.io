@@ -20,6 +20,8 @@
   - ☆ spelunky ☆
   - ☆ 1 page html games ☆
   - ☆ pico-8 collection ☆
+  - ☆ bitburner ☆
+  - ☆ sandboxels ☆
 
 ### to do:
   - [ ] more game ports (celeste wasm?)
