@@ -8,29 +8,35 @@
                        __/ |              
                       |___/               
 ```
-# ☆ starg3n ☆
+by appak
 ---
-### forking starg3n:
+
+### Overveiw
+starg3n is a static site to play a curated collection of intresting and high-quality games. this site can be hosted on ANY static site platform, and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly.
+
+### Documentation:
+setting up a fork of starg3n is quite easy, you just need to fork + change links.
 > [!NOTE]
 > starg3n is composed of multiple repos, 7 to be exact. forking just this repo is pretty much useless.
 to start making a starg3n mirror, read this page: [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
 
-### what does starg3n have?
-  - ☆ sm64 ☆
-  - ☆ hl1 ☆
-  - ☆ eagler ☆
-  - ☆ gba emulator ☆
-  - ☆ ds emulator ☆
-  - ☆ ps1 emulator☆
-  - ☆ flash emulator ☆
-  - ☆ cookie clicker ☆
-  - ☆ spelunky ☆
-  - ☆ 1 page html games ☆
-  - ☆ pico-8 collection ☆
-  - ☆ bitburner ☆
-  - ☆ sandboxels ☆
+### Games
+starg3n's collection doesn't have any of the slop that fills every other game site, which may put off that audience of people just looking to play something quick, but that's not the audience starg3n hopes to draw in. starg3n includes the following games
+- spelunky classic
+- pico-8
+- bitburner
+- sandboxels
+- gba collection
+- sm64 wasm
+- hl1
+- eaglercraft
+- ds emulator
+- ps1 emulator
+- flash emulator
+- cookie clicker
+- small one page html games
 
-### to do:
+### To Do:
   - [ ] fix ui consistency
   - [ ] finish music collections + add to homepage
 
