@@ -16,7 +16,7 @@ to fork starg3n, you need to fork all of the games, as some aren't on the homepa
 In each of these repos click _settings_, _pages_, then under _branch_, click "None" and change it to "Main"
 getting the repo link is easy: _yourname_.github.io/_reponame_
 > [!WARNING]
-> the ps1 emulator needs an additional parameter ontop of the basic link:
+> the ps1 emulator needs an additional parameter ontop of the basic link: \
 > _yourname_.github.io/ps1/PlayStation.htm
 
 ### Setting up Homepage + Returning Links
