@@ -20,11 +20,14 @@ getting the repo link is easy: _yourname_.github.io/_reponame_
 > _yourname_.github.io/ps1/PlayStation.htm
 
 ### Setting up Homepage + Returning Links
-once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba ds, ps1, bitburner, and sandboxels links to what they are under your account. 
+once you've forked those and set up the gh pages you need to go to the **homepage** repo, go to _index.html_ and change the hl1, gba ds, ps1, bitburner, and sandboxels button links from starg3n.github.io to your username. 
 
 **sm64, eagler, cookie, 1page html, pico 8, spelunky and flash do not need to be changed because they are in the *homepage* repo.**
 
-(the other repos have a link back to starg3n, so you may need to change those as well)
+> [!NOTE]
+> some of the repos have a link back to starg3n homepage, so you may need to change those to your username as well!
 
-## Help
-start an issue on the og starg3n repo or message appakling on discord for help!
+
+### Need Help?
+- start an issue on the original starg3n repo
+- contact **appakling** on discord
