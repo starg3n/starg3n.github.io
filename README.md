@@ -14,7 +14,7 @@ starg3n is a static site to play a curated collection of intresting and high-qua
 ### Documentation:
 setting up a fork of starg3n is quite easy, you just need to fork the repos and change links.
 > [!NOTE]
-> starg3n is composed of multiple repos, 7 to be exact. forking **just** this repo is pretty much useless.
+> starg3n is composed of multiple repos, 7 to be exact. forking **just** this repo is pretty much useless. \
 to start making a starg3n mirror, read this page: [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
 
 ### Games
