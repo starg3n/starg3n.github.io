@@ -1,14 +1,21 @@
-<div text-align: center;>
-  <img src="https://starg3n.github.io/data/logo.png">
-
-<h1  text-align: center>☆ starg3n homepage ☆</h1>
-
-☆ the freedom to play ☆
+```
+      _                      _____        
+     | |                    |____ |       
+ ___ | |_  __ _  _ __  __ _     / / _ __  
+/ __|| __|/ _` || '__|/ _` |    \ \| '_ \ 
+\__ \| |_| (_| || |  | (_| |.___/ /| | | |
+|___/ \__|\__,_||_|   \__, |\____/ |_| |_|
+                       __/ |              
+                      |___/               
+```
+# ☆ starg3n ☆
 ---
-### before forking read this:
-[starg3n fork setup](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
+### forking starg3n:
+> [!NOTE]
+> starg3n is composed of multiple repos, 7 to be exact. forking just this repo is pretty much useless.
+to start making a starg3n mirror, read this page: [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
 
-### resources starg3n has:
+### what does starg3n have?
   - ☆ sm64 ☆
   - ☆ hl1 ☆
   - ☆ eagler ☆
@@ -29,4 +36,3 @@
 
 this website is a work in progress, if anything isn't working, that means it's being updated.
 if you need help, make a DISCUSSION, or MESSAGE me on discord: **appakling**
-</div>
