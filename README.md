@@ -6,11 +6,8 @@
 \__ \| |_| (_| || |  | (_| |.___/ /| | | |
 |___/ \__|\__,_||_|   \__, |\____/ |_| |_|
                        __/ |              
-                      |___/               
+                      |___/   by appak 
 ```
-by appak
----
-
 ### Overveiw
 starg3n is a static site to play a curated collection of intresting and high-quality games. this site can be hosted on ANY static site platform, and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly.
 
