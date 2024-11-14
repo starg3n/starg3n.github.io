@@ -24,6 +24,7 @@ starg3n's collection doesn't have any of the slop that fills every other game si
 - pico-8
 - bitburner
 - sandboxels
+- beepbox
 - gba collection
 - sm64 wasm
 - hl1
@@ -34,9 +35,12 @@ starg3n's collection doesn't have any of the slop that fills every other game si
 - cookie clicker
 - small one page html games
 
+
 ### To Do:
   - [ ] fix ui consistency
   - [ ] finish music collections + add to homepage
+  - [X] non game tool (music) 
 
+### Need Help?
 this website is a work in progress, if anything isn't working, that means it's being updated.
-if you need help, make a DISCUSSION, or MESSAGE me on discord: **appakling**
+if you need help, make an issue on this repo, or dm me on discord: **appakling**
