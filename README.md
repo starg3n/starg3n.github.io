@@ -10,12 +10,12 @@
 
 ```
 ### Overveiw
-starg3n is a group of 7 static sites to play a curated collection of intresting and high-quality games and tools. this site can be hosted anywhere you can host a static site, and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly, allowing anyone to play starg3n games anywhere, anytime!
+starg3n is a group of 7 static sites, all connected, allowing anyone to play a curated collection of intresting and high-quality games and tools, which is unlike the slop that can be found on other sites of a similar nature. key features of starg3n are that it can be hosted anywhere you can host a static site, and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly, allowing anyone to play starg3n games anywhere, anytime!
 
 ### Documentation:
 setting up a fork of starg3n is quite easy, you just need to fork the repos and change links.
 > [!NOTE]
-> starg3n is composed of multiple repos, 7 to be exact. forking **just** this repo is pretty much useless.
+> starg3n is composed of multiple repos, 7 to be exact. forking **just** this repo is pretty much useless, as you'll lose a lot of the intresting parts of starg3n
 
 to start making a starg3n mirror, read this page: [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
 
