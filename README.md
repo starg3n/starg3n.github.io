@@ -1,15 +1,16 @@
 ```
       _                      _____        
-     | |                    |____ |       
+     | |  Version 4.0.0     |____ |       
  ___ | |_  __ _  _ __  __ _     / / _ __  
 / __|| __|/ _` || '__|/ _` |    \ \| '_ \ 
 \__ \| |_| (_| || |  | (_| |.___/ /| | | |
 |___/ \__|\__,_||_|   \__, |\____/ |_| |_|
                        __/ |              
-                      |___/   by appak 
+                      |___/   by appak
+
 ```
 ### Overveiw
-starg3n is a static site to play a curated collection of intresting and high-quality games. this site can be hosted on ANY static site platform, and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly.
+starg3n is a group of 7 static sites to play a curated collection of intresting and high-quality games and tools. this site can be hosted anywhere you can host a static site, and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly, allowing anyone to play starg3n games anywhere, anytime!
 
 ### Documentation:
 setting up a fork of starg3n is quite easy, you just need to fork the repos and change links.
