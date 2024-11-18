@@ -20,7 +20,9 @@ setting up a fork of starg3n is quite easy, you just need to fork the repos and 
 to start making a starg3n mirror, read this page: [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
 
 ### Games
-starg3n's collection doesn't have any of the slop that fills every other game site, which may put off that audience of people just looking to play something quick, but that's not the audience starg3n hopes to draw in. starg3n includes the following games
+starg3n's game collection includes many that aren't on the other unblocked game sites, which may draw some people away. these games are high quality peices of entertainment, unlike the basic cheap games found on other sites.
+
+our games include:
 - spelunky classic
 - pico-8
 - bitburner
