@@ -36,7 +36,6 @@ our games include:
 - ps1 emulator
 - flash emulator
 - cookie clicker
-- small one page html games
 
 
 ### To Do:
