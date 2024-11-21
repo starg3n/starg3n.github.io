@@ -17,7 +17,7 @@ setting up a fork of starg3n is quite easy, you just need to fork the repos and 
 > [!NOTE]
 > starg3n is composed of multiple repos, 7 to be exact. forking **just** this repo is pretty much useless, as you'll lose a lot of the intresting parts of starg3n!
 
-to start making a starg3n mirror, read this page: [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md)
+to start making a starg3n mirror, or to make your own take on starg3n, read the [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md).
 
 ### Games
 starg3n's game collection includes many that aren't on the other unblocked game sites, which may draw some people away. these games are high quality peices of entertainment, unlike the basic cheap games found on other sites.
