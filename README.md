@@ -7,7 +7,6 @@
 |___/ \__|\__,_||_|   \__, |\____/ |_| |_|
                        __/ |              
                       |___/   by appak
-
 ```
 ### Overveiw
 Starg3n is an **easily deployable static site with a collection of intresting and high-quality games (and tools)**, which is unlike the slop that can be found on other sites of the same genre. Key features of starg3n are that it can be hosted anywhere you can host a static site (I.e Github Pages Netifly, Cloudflare Pages, Glitch, and more) and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly, allowing anyone to play starg3n games anywhere, anytime!
