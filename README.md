@@ -26,6 +26,7 @@ our games include:
 - pico-8
 - bitburner
 - sandboxels
+- rugg rouge
 - beepbox
 - gba collection
 - sm64 wasm
