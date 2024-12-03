@@ -14,7 +14,7 @@ Starg3n is an **easily deployable static site with a collection of intresting an
 ### Documentation:
 setting up a fork of starg3n is quite easy, you just need to fork the repos and change links.
 > [!NOTE]
-> starg3n is composed of multiple repos, 7 to be exact. forking **just** this repo is pretty much useless, as you'll lose a lot of the intresting parts of starg3n!
+> starg3n is composed of multiple repos, 8 to be exact. forking **just** this repo is pretty much useless, as you'll lose a lot of the intresting parts of starg3n!
 
 to start making a starg3n mirror, or to make your own take on starg3n, read the [fork setup guide](https://github.com/starg3n/starg3n.github.io/blob/main/forksetup.md).
 
