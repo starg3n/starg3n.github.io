@@ -10,10 +10,11 @@ to fork starg3n, you need to fork all of the games, as some aren't on the homepa
 - [gba](https://github.com/starg3n/gba)
 - [bitburner](https://github.com/starg3n/bitburner)
 - [sandboxels](https://github.com/starg3n/sandboxels) <- or just fork the latest sandboxels version
+- [ruggrouge](https://github.com/rr/) MAKE SURE YOU UNCHECK THE "fork main branch only" TEXT! IF YOU DO NOT DO THAT IT WILL NOT WORK
 
 ## Setting Up the Sites
 ### game site setup
-In each of these repos click _settings_, _pages_, then under _branch_, click "None" and change it to "Main"
+In each of these repos click _settings_, _pages_, then under _branch_, click "None" and change it to "Main", BUT FOR RUGGROUGE, SELECT gh_pages!!!
 getting the repo link is easy: _yourname_.github.io/_reponame_
 > [!WARNING]
 > the ps1 emulator needs an additional parameter ontop of the basic link: \
