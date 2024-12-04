@@ -1,5 +1,3 @@
-# WORK IN PROGRESS, BIG OVERHAUL BEING DONE ON THIS FILE
-
 # starg3n clone guide
 
 ## table of contents
