@@ -15,30 +15,55 @@ to fork starg3n, you need to fork the 8 external repos, and this home repo. just
 # repos to fork
 to fork starg3n you need to fork the following repos.
 [homepage](https://github.com/starg3n/starg3n.github.io/tree/main)
+  - make sure you rename the repo to **yourname.github.io** if you want to do what starg3n does
 
 [gba](https://github.com/starg3n/gba)
+  - just keep the repo name
 
 [sandboxels](https://github.com/starg3n/sandboxels)
+  - just keep the repo name
+  - or just fork the latest version of sandboxels
 
 [ds](https://github.com/starg3n/ds)
+  - just keep the repo name
 
 [ps1](https://github.com/starg3n/ps1)
+  - just keep the repo name
 
 [hl1](https://github.com/starg3n/hl1)
+  - just keep the repo name
 
-[rugg rouge](https://github.com/starg3n/rr) **make sure you uncheck the "fork main only" box when forking!**
+[rugg rouge](https://github.com/starg3n/rr)
+  - just keep the repo name
+  - make sure you **uncheck** the "_fork main branch only_" button when forking
 
 [bitburner](https://github.com/starg3n/bitburner)
+  - just keep the repo name
+  - or fork the latest version of bitburner
 
-[ps1](https://github.com/starg3n/ps1)
 
 # setting up the repos
 
-after you've forked these repos, go to _Settings_, _Pages_, then select the branch, and click "Save".
-for **homepage, gba, sandboxels, ds, ps1, hl1, ps1, and bitburner, select MAIN as your branch,** but for rugg rouge, select **gh_pages** as your branch to use as a page. if that branch is not there, that means you left the "fork main only" box checked. delete the repo and refork it. 
-> [!NOTE]
-> for the ps1 repo, your link must be the following: \
-> ```yourname.github.io/ps1/PlayStation.htm```
+### for homepage, gba, sandboxels, ds, hl1, and bitburner:
+ - go into the repo settings
+ - on the left sidebar, select the _Pages_ tab
+ - under the _Branch_ portion of the page, select _Main_ from the first box
+ - choose _Root_ as the folder in the second box
+ - click save
+ - go to the page with all of the repo files
+ - on the right sidebar, on the _About_ section, click the cog wheel
+ - under the _Website_ section, check the box marked _Use your Github Pages website_
+ - wait for it to deploy
+
+### for rugg rouge:
+  - go into the repo settings
+  - on the left sidebar, select the _Pages_ tab
+  - under the _Branch_ portion of the page, select _gh_pages_ from the first box
+  - choose _Root_ as the folder in the second box
+  - click save
+  - go to the page with the repo files
+  - on the right sidebar, on the _About_ section, click the cog wheel
+
 
 # setting up homepage
 
