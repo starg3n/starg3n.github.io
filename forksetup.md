@@ -63,9 +63,27 @@ to fork starg3n you need to fork the following repos.
   - click save
   - go to the page with the repo files
   - on the right sidebar, on the _About_ section, click the cog wheel
+  - under the _Website_ section, check **and uncheck** the box marked _Use your Github Pages website_
+  - change the url to say _yourname.github.io/rr/play_
+  
+### for ps1:
+  - go into the repo settings
+  - on the left sidebar, select the _Pages_ tab
+  - under the _Branch_ portion of the page, select _gh_pages_ from the first box
+  - choose _Root_ as the folder in the second box
+  - click save
+  - go to the page with the repo files
+  - on the right sidebar, on the _About_ section, click the cog wheel
+  - under the _Website_ section, check **and uncheck** the box marked _Use your Github Pages website_
+  - change the url to say _yourname.github.io/ps1/PlayStation.htm_
+
+### setting up homepage links
+
+  - open _index.html_ on the root of the repo.
+  - there is a large list of links with a comment marked **CHANGE THESE LINKS** above it.
+  - change the urls to your new urls.
+  - save
 
 
-# setting up homepage
 
-to set up the homepage repo, go into _index.html_, and replace the links of the repos with the forked versions. you can leave the links to the games and tools hosted in the homepage repo alone.
-use CTRL+F to search for _starg3n_, and replace it with your urls.
+
