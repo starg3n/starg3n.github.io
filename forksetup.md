@@ -23,6 +23,7 @@ In each of these repos click _settings_, _pages_, then under _branch_, click "No
 > when selecting rugg rouge's branch to use as a page, maks sure you select "gh_pages". if this does not show up it means you left the "fork main branch only" checkbox while forking. \
 > but, if you do it correctly, your rugg rouge url should look something like \
 >  ```yourname.github.io/rr/play```
+---
 getting the repo link is easy: _yourname_.github.io/_reponame_
 > [!WARNING]
 > the ps1 emulator needs an additional parameter ontop of the basic link: \
