@@ -4,6 +4,7 @@
 1. [preface](#preface)
 2. [forking](#repos-to-fork)
 3. [setup](#setting-up-the-repos)
+4. [homepage](#setting-up-homepage)
 
 
 # preface
