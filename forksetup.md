@@ -15,6 +15,8 @@
 3. [setup](#setting-up-the-repos)
 4. [repo setup](#setting-up-the-repos)
 5. [homepage links](###setting-up-homepage-links)
+6. [return links](###setting-up-return-links)
+7. [styling](###styling)
 
 
 # preface
@@ -95,6 +97,30 @@ to fork starg3n you need to fork the following repos.
   - save
 
 ### setting up return links
-certain 
+certain games have links that return you back to starg3n. these are as follows:
+- ds
+- gba
+- hl1
+go into these repos and search for this line of code
+```
+ <a href="https://starg3n.github.io"><img src="/data/favicon.ico"></img></a>
+```
+replace the starg3n url with your new url.
 
+### styling
+#### colors
+starg3n looks the way it does due to a file called _style.css_. this file is located in /data/style.css, and can be edited to make starg3n have diffrent colors and make it look nice. There are comments included in the file to guide you through making it your own.
+> [!WARNING]
+> the pico-8 games use a diffrent style.css file, located at _pico8/bwg/styles.css_.
+#### icon
+the starg3n icon is simply a ["dizzy" emoji](https://www.iemoji.com/view/emoji/697/animals-nature/dizzy#:~:text=A%20moving%20star%20floating%20around,or%20circles%20around%20the%20head.) styled with flat colors. to change this, rename data/favicon.ico or delete it, and add a new one.
+#### organization
+starg3n, as a website is not optimized or organized. there are lots of useless files that may bloat up the size of the site. most of this bloat are files to be used in a future update.
+
+### help
+if you need any help with starg3n, you can open an issue on the starg3n repo, or contact _appakling_ on discord.
+if you need help with css, html, or any code related information, please:
+- try googling your problem
+- just trying stuff
+if none of that works, then open an issue or contact _appakling_. 
 
