@@ -11,10 +11,8 @@
 ### Overveiw
 Starg3n is an **easily deployable static site with a collection of intresting and high-quality games (and tools)**, which is unlike the slop that can be found on other sites of the same genre. Key features of starg3n are that it can be hosted anywhere you can host a static site (I.e Github Pages Netifly, Cloudflare Pages, Glitch, and more) and with some tweaking, can be played from a download of the site(s). starg3n is always under development, leading to a reason to come back, and making a mirror is a simple process, so anyone with a github account and a basic understanding of HTML can set it up quickly, allowing anyone to play starg3n games anywhere, anytime!
 
-### Forking Documentation:
-setting up a full, complete fork of starg3n is moderately easy, you just need to fork the repos and change the links.
-> [!NOTE]
-> starg3n is composed of multiple repos, 8 to be exact. forking **just** this repo is pretty much useless, as you'll lose a lot of the intresting parts of starg3n!
+### Documentation
+to get more information on how to make a fork of starg3n, how to contribute to starg3n, and how to make a website like starg3n, **Check out the [Wiki](https://github.com/starg3n/starg3n.github.io/wiki)!**
 
 if you have little to no experience, to start making a starg3n mirror, or to make your own take on starg3n, read the [wiki](https://github.com/starg3n/starg3n.github.io/wiki). the wiki is a total revamp of the forking guide, and comes with a lot more than just a forking tutorial. if you want to start making a website like starg3n, or just copy it for your own gain, go ahead and take a look.
 
