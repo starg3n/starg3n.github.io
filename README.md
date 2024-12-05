@@ -14,26 +14,25 @@ Starg3n is an **easily deployable static site with a collection of intresting an
 ### Documentation
 to get more information on how to make a fork of starg3n, how to contribute to starg3n, and how to make a website like starg3n, **Check out the [Wiki](https://github.com/starg3n/starg3n.github.io/wiki)!**
 
-if you have little to no experience, to start making a starg3n mirror, or to make your own take on starg3n, read the [wiki](https://github.com/starg3n/starg3n.github.io/wiki). the wiki is a total revamp of the forking guide, and comes with a lot more than just a forking tutorial. if you want to start making a website like starg3n, or just copy it for your own gain, go ahead and take a look.
-
 ### Games
 starg3n's game collection includes many that aren't on the other unblocked game sites, which may draw some people away. these games are high quality peices of entertainment, unlike the basic cheap games found on other sites.
 
-our games include:
-- spelunky classic
-- pico-8
-- bitburner
-- sandboxels
-- rugg rouge
-- beepbox
-- gba collection
-- sm64 wasm
-- hl1
-- eaglercraft
-- ds emulator
-- ps1 emulator
-- flash emulator
-- cookie clicker
+#### our games include:
+
+- spelunky classic - a rougelite where you explore a cave
+- pico-8 collection - a small collection of pico-8 roms
+- bitburner - a text based cookie clicker-type game
+- sandboxels - physics sand game
+- rugg rouge - turn based dungeon crawler
+- beepbox - small music making tool
+- gba collection - every gba game ever released by nintendo
+- sm64 wasm - a port of the original super mario 64 to the web
+- hl1 - a port of the original half life 1 to the web
+- eaglercraft - a port of minecraft to the web
+- ds emulator - a ds emulator
+- ps1 emulator - a ps1 emulator
+- flash emulator - flash emulator
+- cookie clicker - a game where you automate clicking a cookie
 
 
 ### To Do:
