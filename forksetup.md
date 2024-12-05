@@ -5,9 +5,6 @@
 2. [forking](#repos-to-fork)
 3. [setup](#setting-up-the-repos)
 4. [repo setup](#setting-up-the-repos)
-   1. [most games](###for-homepage,-gba,-sandboxels,-ds,-hl1,-and-bitburner:)
-   2. [rugg rouge](###for-rugg-rouge:)
-   3. [for ps1](###for-ps1:)
 5. [homepage links](###setting-up-homepage-links)
 
 
