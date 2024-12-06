@@ -1,6 +1,14 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <p align="center">
       <img src="/data/logo.png">
 </p>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/starg3n/starg3n.github.io/discussions" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss starg3n/starg3n.github.io on GitHub">Discuss</a>
+<a class="github-button" href="https://github.com/starg3n/starg3n.github.io/issues" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" aria-label="Issue starg3n/starg3n.github.io on GitHub">Issue</a>
 
 ## Overview
 Starg3n is a static "gamesite" with a large and high quality collection of games and tools, with a nice UI to boot. Starg3n can be easily forked, setting up a mirror, or your own version to add onto. Starg3n is also open to contributions, so anyone can make a change to help out. 
