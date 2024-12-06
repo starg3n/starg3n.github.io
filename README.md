@@ -10,7 +10,7 @@
 
 
 ## Overview
-Starg3n is a static "gamesite" with a large and high quality collection of games and tools, with a nice UI to boot. Starg3n can be easily forked, setting up a mirror, or your own version to add onto. Starg3n is also open to contributions, so anyone can make a change to help out. 
+Starg3n is a static gamesite project created and maintained by [appak](https://appak.neocities.org). The goal of starg3n is to make good, high quality games (and tools) easy to accesses from any device in any situation, with a [catppuccin](https://catppuccin.com/) theme to boot. Starg3n also allows anyone to fork it to make a mirror, a copy, or to contribute by adding or fixing parts of the site. Starg3n is being constantly worked on, with new updates adding more and more content, leading to a reason to come back often
  
 ## Games
 - Spelunky Classic - a rougelite where you explore a cave
