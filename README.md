@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="starg3n.github.io/data/logo.png">
+      <img src="/data/logo.png">
 </p>
 
 ## Overview
