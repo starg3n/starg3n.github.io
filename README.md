@@ -1,6 +1,7 @@
 <p align="center">
       <img src="starg3n.github.io/data/logo.png">
 </p>
+
 ## Overview
 Starg3n is a static "gamesite" with a large and high quality collection of games and tools, with a nice UI to boot. Starg3n can be easily forked, setting up a mirror, or your own version to add onto. Starg3n is also open to contributions, so anyone can make a change to help out. 
 
