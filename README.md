@@ -27,6 +27,7 @@ Starg3n is a static "gamesite" with a large and high quality collection of games
 - Ps1 Emulator - a ps1 emulator
 - Flash Emulator - flash emulator
 - Cookie Clicker - a game where you automate clicking a cookie
+- Asteroids - the classic arcade game
 
 ## Documentation
 Starg3n being open source, means that anyone can fork and edit it. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with guides on forking, contributing, and making a similar site.
