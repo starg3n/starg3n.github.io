@@ -13,6 +13,7 @@
 Starg3n is a static gamesite project created and maintained by [appak](https://appak.neocities.org). The goal of starg3n is to make good, high quality games (and tools) easy to accesses from any device in any situation, with a [catppuccin](https://catppuccin.com/) theme to boot. Starg3n also allows anyone to fork it to make a mirror, a copy, or to contribute by adding or fixing parts of the site. Starg3n is being constantly worked on, with new updates adding more and more content, leading to a reason to come back often
  
 ## Games
+Starg3n has a wide variety of games. From ports to rom collections to emulators and more, Starg3n's variety of high-quality content is what makes it stand out from the crowd.
 - Spelunky Classic - a rougelite where you explore a cave
 - Pico-8 Collection - a small collection of pico-8 roms
 - Bitburner - a text based cookie clicker-type game where you automate hacking
@@ -27,14 +28,12 @@ Starg3n is a static gamesite project created and maintained by [appak](https://a
 - Ps1 Emulator - a ps1 emulator
 - Flash Emulator - flash emulator
 - Cookie Clicker - a game where you automate clicking a cookie
-- Asteroids - the classic arcade game
 
 ## Documentation
-Starg3n being open source, means that anyone can fork and edit it. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with guides on forking, contributing, and making a similar site.
+Starg3n being open source means that anyone can fork and edit their own copy. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with documentation on forking, contributing, making sites similar to starg3n, and other useful information.
 
 ## Help
 if you have any problems, you can:
 - make an issue on this repo
 - start a discussion on this repo
-- fix the problem and make a pull request
 - dm _appakling_ on discord
