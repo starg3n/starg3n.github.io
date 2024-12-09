@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<html style="width:100%;height:100%;">
+<head>
+<meta http-equiv="origin-trial" content="ArNPSFm7gVG988ErBulTuZ21VM9sMvN4G90SgXXCOOzf2rbY0PLmI/DYkgEiEZZxC3zIqUIf3NInHkZoSvutyAIAAAB7eyJvcmlnaW4iOiJodHRwczovL2VhZ2xlcmNyYWZ0LmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViQXNzZW1ibHlKU1Byb21pc2VJbnRlZ3JhdGlvbiIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNTdWJkb21haW4iOnRydWV9" />
+
+<!-- 
+<script src="https://stpd.cloud/assets/libraries/inview.min.js"></script>
+<script>inView.offset(-150);</script>
+
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+<script>
+    stpd = window.stpd || {que: []};
+    window.googletag = window.googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+    if(window.outerWidth >= 1800) {
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_1200x300_leaderboard_desktop_top', [[970,250],[1280,300],[1200,300],[1200,200],[1200,180],[1140,300],[1100,200],[980,200],[980,180],[980,150],[930,150],[970,90],[980,120],[970,240],[980,240],[980,90],[930,180],[950,90],[1100,300],[1000,300],[980,300],[970,300],[1000,90],[1000,100],[1000,120],[1000,150],[1000,200],[1100,210],[1100,250],[980,250],[728,90]], 'eaglercraft_com_leaderboard_responsive_top').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_1000x100_sticky_anchorad_desktop', [[1000,100],[970,90],[728,90],[990,90],[970,50],[960,90],[950,90],[980,90]], 'eaglercraft_com_sticky_anchorad_responsive').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_300x600_side_rails_left', [[300,600],[160,600],[300,250],[300,300],[200,600],[250,600]], 'eaglercraft_com_side_rails_left').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_300x600_side_rails_right', [[300,600],[160,600],[300,250],[300,300],[200,600],[250,600]], 'eaglercraft_com_side_rails_right').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_300x600_sidebar_desktop_right', [[300,600],[160,600],[300,250],[300,300],[200,600],[250,600]], 'eaglercraft_com_sidebar_desktop_right').addService(googletag.pubads());
+        } else if(window.outerWidth >= 1320) {
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_1200x300_leaderboard_desktop_top', [[970,250],[728,90],[970,90],[1000,200],[1000,250],[970,300],[980,240],[980,120],[970,200],[970,188],[970,120],[950,90],[728,100],[728,250]], 'eaglercraft_com_leaderboard_responsive_top').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_1000x100_sticky_anchorad_desktop', [[1000,100],[970,90],[728,90],[990,90],[970,50],[960,90],[950,90],[980,90]], 'eaglercraft_com_sticky_anchorad_responsive').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_160x600_side_rails_left', [[160,600],[120,600]], 'eaglercraft_com_side_rails_left').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_160x600_side_rails_right', [[160,600],[120,600]], 'eaglercraft_com_side_rails_right').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_300x600_sidebar_desktop_right', [[300,600],[160,600],[300,250],[300,300],[200,600],[250,600]], 'eaglercraft_com_sidebar_desktop_right').addService(googletag.pubads());
+          } else if(window.outerWidth >= 1068) {
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_1200x300_leaderboard_desktop_top', [[970,250],[728,90],[970,90],[1000,200],[1000,250],[970,300],[980,240],[980,120],[970,200],[970,188],[970,120],[950,90],[728,100],[728,250]], 'eaglercraft_com_leaderboard_responsive_top').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_1000x100_sticky_anchorad_desktop', [[1000,100],[970,90],[728,90],[990,90],[970,50],[960,90],[950,90],[980,90]], 'eaglercraft_com_sticky_anchorad_responsive').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_300x600_sidebar_desktop_right', [[300,600],[160,600],[300,250],[300,300],[200,600],[250,600]], 'eaglercraft_com_sidebar_desktop_right').addService(googletag.pubads());
+        } else if(window.outerWidth >= 728) {
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_728x300_leaderboard_tablet_top', [[728,280],[728,200],[300,250],[336,280],[728,250],[728,90],[640,200],[640,100],[700,250],[700,200],[700,150],[700,100],[320,250]], 'eaglercraft_com_leaderboard_responsive_top').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_336x100_sticky_anchorad_mobile', [[320,100],[300,100],[320,50],[300,50],[336,100]], 'eaglercraft_com_sticky_anchorad_responsive').addService(googletag.pubads());
+        } else {
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_336x336_leaderboard_mobile_top', [[300,250],[320,320],[250,250],[300,300],[336,280],[320,300],[320,250],[300,200],[320,100],[320,50],[300,100],[300,50],[320,150],[320,160],[200,200]], 'eaglercraft_com_leaderboard_responsive_top').addService(googletag.pubads());
+            googletag.defineSlot('/147246189,23007444608/eaglercraft.com_336x100_sticky_anchorad_mobile', [[320,100],[300,100],[320,50],[300,50],[336,100]], 'eaglercraft_com_sticky_anchorad_responsive').addService(googletag.pubads());
+        }
+        
+        var interstitialSlot = googletag.defineOutOfPageSlot('/147246189,23007444608/eaglercraft.com_interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+            if (interstitialSlot) interstitialSlot.addService(googletag.pubads());
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+        googletag.pubads().collapseEmptyDivs();
+    });
+</script>
+<script async src="https://stpd.cloud/saas/8144"></script>
+
+<style>
+    .leaderboard_responsive,
+    .in_article_responsive {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    @media (max-width: 727px) {
+        .leaderboard_responsive,
+        .in_article_responsive
+        {
+            height: 336px !important;
+        }
+    }
+    @media  (min-width: 728) {
+        .leaderboard_responsive,
+        .in_article_responsive
+        {
+            height: 300px !important;
+        }
+    }	  
+</style>
+
+-->
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Minecraft 1.8.8</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-64TQKQ7TWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-64TQKQ7TWQ');
+</script>
+<script type="text/javascript">
+window.addEventListener("load", function() {
+	if((typeof WebAssembly !== "undefined") && (typeof WebAssembly.Suspending !== "undefined")) {
+		try {
+			if("true" === window.localStorage.getItem("hideEaglerWASMAvailable")) {
+				return;
+			}
+		}catch(ex) {
+		}
+		var el = document.getElementById("eaglerWASMAvailable");
+		var chkbox = document.getElementById("eaglerWASMAvailableDontShow");
+		function handleDontShow() {
+			if(chkbox.checked) {
+				try {
+					window.localStorage.setItem("hideEaglerWASMAvailable", "true");
+				}catch(ex) {
+				}
+			}
+		}
+		el.style.display = "block";
+		document.getElementById("eaglerWASMAvailableYes").addEventListener("click", function() {
+			handleDontShow();
+			document.location.href = "https://eaglercraft.com/mc/1.8.8-wasm/";
+		});
+		document.getElementById("eaglerWASMAvailableNo").addEventListener("click", function() {
+			handleDontShow();
+			el.style.display = "none";
+		});
+	}
+});
+</script>
+<script type="text/javascript">
+window.clipboard = window.navigator.clipboard;
+window.disableUserscripts = true;
+window.__eaglercraftLoaderClient = {
+	container: "game_frame",
+	name: "EaglercraftX 1.8",
+	file: "net.lax1dude.eaglercraft.v1_8.client",
+	cid: "bafybeid33zmighi5hdsnqrayjqgcpowkinujywp6xttxzoejyzwlehwbfi",
+	path: "",
+	dlSize: 13684840,
+	gzip: true
+};
+</script>
+<script type="text/javascript" src="https://eaglercraft.com/js/loader.js?zz"></script>
+<link type="image/png" rel="shortcut icon" href="/data/favicon.ico" />
+</head>
+<body style="margin:0px;width:100%;height:100%;overflow:hidden;">
+<div id="eaglerWASMAvailable" style="display:none;position:absolute;left:0px;top:0px;right:0px;z-index:1000;">
+<div style="margin:auto;max-width:650px;">
+<div style="margin:20px;border:5px double black;padding:10px;background-color:white;text-align:center;font-family:sans-serif;font-size:1.2em;">
+<h3>EaglercraftX 1.8 WebAssembly GC is supported on your browser, would you like to try it?</h3>
+<p>The new version of EaglercraftX 1.8 gets almost <b>2x the FPS</b>, however it may crash if your device doesn't have a lot of memory</p>
+<p>Your existing singleplayer worlds will be available</p>
+<h4><input type="checkbox" style="zoom:1.5;" id="eaglerWASMAvailableDontShow"> Do not show again</h4>
+<p><button id="eaglerWASMAvailableYes" style="zoom:1.5;">Switch to WebAssembly version</button></p>
+<p><button id="eaglerWASMAvailableNo" style="zoom:1.5;">Keep using JavaScript version</button></p>
+</div>
+</div>
+</div>
+<div id="game_frame" style="width:100%;height:100%;"></div>
+</body>
+</html>
