@@ -30,13 +30,10 @@ Starg3n has a wide variety of games. From ports to rom collections to emulators 
 - Cookie Clicker - a game where you automate clicking a cookie
 
 ## Documentation
-Starg3n being open source means that anyone can fork and edit their own copy. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with documentation on forking, contributing, making sites similar to starg3n, and other useful information.
+Starg3n being open source means that anyone can fork and edit their own copy. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with documentation on forking, contributing, making sites similar to starg3n, and other useful information, such as game documentation for findning ds roms, flash roms, and more.
 
 ## To do
-- [ ] [add blamscamp player](https://suricrasia.online/blamscamp/)
-- [ ] [fix issues](https://github.com/starg3n/starg3n.github.io/issues)
-
-
+- [X] [think of adding blamscamp player](https://suricrasia.online/blamscamp/)
 
 ## Help
 if you have any problems, you can:
