@@ -1,6 +1,7 @@
 /*☆ this is so cleannnnnn ☆*/
 body {
-  margin: 25px; /*this changes how close items can get to the edge of the screen*/
+  margin: 25px; 
+  padding: 10px 28px; /*this changes how close items can get to the edge of the screen*/
   background-color: #11111B; /*this changes the bg color*/
   font-family: Verdana, sans-serif; /* this changes the font */
   font-size: 14px;
