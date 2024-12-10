@@ -22,6 +22,10 @@ p { /* normal text, used in the update logs and other places*/
   text-align: center; /*align it to the center*/
 }
 
+p:hover {
+  transform: scale(1.2)
+}
+
 b { /*bold text. I don't know if this is used.*/
   font-size: 20px; 
   font-weight: normal; /*not bold or italic*/
