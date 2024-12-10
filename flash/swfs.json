@@ -15,34 +15,45 @@
       }
     },
     {
-      "location": "swfs/bitey1.swf",
-      "title": "Bitey of Brackenwood",
-      "author": "Adam Phillips",
-      "authorLink": "https://bitey.com",
-      "type": "Animation"
+      "location": "swfs/tboi.swf",
+      "title": "The Binding Of Isaac",
+      "author": "Edmund McMillan",
+      "authorlink": "https://store.steampowered.com/app/113200/The_Binding_of_Isaac/",
+      "type": "Game"
     },
+    
     {
-      "location": "swfs/saturday_morning_watchmen.swf",
-      "title": "Saturday Morning Watchmen",
-      "author": "Harry Partridge",
-      "authorLink": "https://twitter.com/HappyHarryToons",
-      "type": "Animation"
-    },
-    {
-      "location": "swfs/synj1.swf",
-      "title": "Synj vs. Horrid Part 1",
-      "author": "Dan Paladin",
-      "authorLink": "https://www.thebehemoth.com",
-      "type": "Animation"
-    },
-    {
-      "location": "swfs/synj2.swf",
-      "title": "Synj vs. Horrid Part 2",
-      "author": "Dan Paladin",
-      "authorLink": "https://www.thebehemoth.com",
-      "type": "Animation"
+      "location": "swfs/papapizza.swf",
+      "title": "Papa's Pizzeria",
+      "author": "Filpline Studios",
+      "authorlink": "https://www.flipline.com/",
+      "type": "Game"
     },
 
+    {
+      "location": "swfs/btd5.swf",
+      "title": "Bloons Tower Defence 5",
+      "author": "Ninja Kiwi Studios",
+      "authorlink": "https://ninjakiwi.com/",
+      "type": "Game"
+    },
+
+    {
+      "location": "swfs/whd.swf",
+      "title": "World's Hardest Game",
+      "author": "Armour Games",
+      "authorlink": "https://armorgames.com/",
+      "type": "Game"
+    },
+
+    {
+      "location": "swfs/FBWG.swf",
+      "title": "Fireboy and Watergirl",
+      "author": "Oslo Albet",
+      "authorlink": "https://www.google.com/search?q=oslo+albet&rlz=1CAJIKU_enUS1134&oq=Oslo+Albet&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgyMzAzajBqOagCALACAQ&sourceid=chrome&ie=UTF-8&surl=1&safe=active&ssui=on",
+      "type": "Game"
+    },
+    
     {
       "location": "swfs/alien_hominid.swf",
       "title": "Alien Hominid",
@@ -64,12 +75,6 @@
       "authorLink": "https://www.hotbryan.com",
       "type": "Game"
     },
-    {
-      "location": "swfs/wasted_sky.swf",
-      "title": "Wasted Sky",
-      "author": "Tom Fulp",
-      "authorLink": "https://www.newgrounds.com",
-      "type": "Game"
-    }
+    
   ]
 }
