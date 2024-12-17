@@ -10,15 +10,15 @@
 
 
 ## Overview
-Starg3n is a static gamesite project created and maintained by [appak](https://appak.neocities.org). The goal of starg3n is to make good, high quality games (and tools) easy to accesses from any device in any situation, with a [catppuccin](https://catppuccin.com/) theme to boot. Starg3n also allows anyone to fork it to make a mirror, a copy, or to contribute by adding or fixing parts of the site. Starg3n is being constantly worked on, with new updates adding more and more content, leading to a reason to come back often
+Starg3n is a static gamesite project created and maintained by [Appak](https://appak.neocities.org), under the _starg3n_ moniker. The goal of starg3n is to provide a plethora of good, high quality games (and tools), easy to accesses from any computer, with a  [Catppuccin](https://catppuccin.com/) theme to boot. Starg3n also provides an extensive tutorial on forking, helping anyone make make a mirror, a copy, or to contribute to the site. Starg3n is being constantly worked on, with new updates adding more content, leading to a reason to come back often.
  
 ## Games
-Starg3n has a wide variety of games. From ports to rom collections to emulators and more, Starg3n's variety of high-quality content is what makes it stand out from the crowd.
+Starg3n has a wide variety of games. From ports to rom collections to emulators and more, Starg3n's variety of high-quality content is what makes it stand out from the dense crowd of unblocked game websites.
 - Spelunky Classic - a rougelite where you explore a cave
 - Pico-8 Collection - a small collection of pico-8 roms
 - Bitburner - a text based cookie clicker-type game where you automate hacking
 - Sandboxels - physics sand game
-- Rugg Rouge - turn based dungeon crawler
+- Rugg Rouge - turn based dungeon crawler rougelike
 - Beepbox - small music making tool
 - Gba Collection - every gba game ever released by nintendo
 - Sm64 Wasm - a port of the original super mario 64 to the web
