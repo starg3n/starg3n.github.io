@@ -10,10 +10,6 @@
 <p><b></b></p>
 </p>
 
-
->[!WARNING]
->Currently under an "overhaul"
-
 ## Overview
 Starg3n (Pronounced stɑː ʤɛn) is a static gamesite project created and maintained by [Appak](https://appak.neocities.org), under the _starg3n_ moniker. The goal of starg3n is to provide a plethora of good, high quality games (and tools), easy to accesses from any computer, with a  [Catppuccin](https://catppuccin.com/) theme to boot. Starg3n also provides an extensive tutorial on forking, helping anyone make make a mirror, a copy, or to contribute to the site. Starg3n is being constantly worked on, with new updates adding more content, leading to a reason to come back often.
  
