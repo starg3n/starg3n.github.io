@@ -1,0 +1,39 @@
+[package]
+name = "ruggrogue"
+version = "1.0.1"
+authors = ["Tung Nguyen <tungtn3@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[features]
+# Benchmark and print updates/frames per second to standard error.
+fps = []
+
+[profile.release]
+strip = true
+
+[dependencies]
+bitflags = "1.0"
+bitvec = "0.21"
+rand = "0.8"
+rand_xoshiro = "0.6"
+serde_json = "1.0"
+wyhash = "0.5"
+
+[dependencies.sdl2]
+version = "0.34"
+default-features = false
+features = ["image"]
+
+[dependencies.serde]
+version = "1.0"
+features = ["derive"]
+
+[dependencies.shipyard]
+version = "0.4"
+default-features = false
+features = ["serde", "std"]
+
+[lib]
+path = "src/lib/lib.rs"
