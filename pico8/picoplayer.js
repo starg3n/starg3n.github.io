@@ -1,5 +1,7 @@
-// Big thanks to https://github.com/AfBu/PicoLoader
-// pico-8 web player variables that must be present
+// PicoPlayer updated to use the newest pico8 console lib
+// update by starg3n / appak
+// pushed to the picoplayer github 1/8/25
+// soon to be accepted :)
 var Module;
 var playable_area_count = 0;
 var playarea_state = 0;
