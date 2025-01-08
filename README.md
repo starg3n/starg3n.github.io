@@ -16,7 +16,8 @@ Starg3n (Pronounced stɑː ʤɛn) is a static gamesite project created and maint
 ## Features
 ### Starg3n can be hosted locally
 you can download starg3n, from the [releases page](https://github.com/starg3n/starg3n.github.io/releases/latest), or any other way you can download a github repo.
-### More features to come
+### Customizable
+every single color and visual feature in Starg3n can be customized using the [css file](https://github.com/starg3n/starg3n.github.io/blob/main/data/style.css). This file has css colors for every page with catppuccin colors.
  
 ## Games
 Starg3n has a wide variety of games. From ports to rom collections to emulators and more, Starg3n's variety of high-quality content is what makes it stand out from the dense crowd of unblocked game websites.
