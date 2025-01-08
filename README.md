@@ -26,7 +26,6 @@ Starg3n has a wide variety of games. From ports to rom collections to emulators 
 - Hl1 - a port of the original half life 1 to the web
 - Eaglercraft - a port of minecraft to the web
 - Ds Emulator - a ds emulator
-- Ps1 Emulator - a ps1 emulator
 - Yume Nikki - a surreal exploration rpg
 - Flash Emulator - flash emulator
 - Cookie Clicker - a game where you automate clicking a cookie
