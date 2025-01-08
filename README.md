@@ -12,6 +12,11 @@
 
 ## Overview
 Starg3n (Pronounced stɑː ʤɛn) is a static gamesite project created and maintained by [Appak](https://appak.neocities.org), under the _starg3n_ moniker. The goal of starg3n is to provide a plethora of good, high quality games (and tools), easy to accesses from any computer, with a  [Catppuccin](https://catppuccin.com/) theme to boot. Starg3n also provides an extensive tutorial on forking, helping anyone make make a mirror, a copy, or to contribute to the site. Starg3n is being constantly worked on, with new updates adding more content, leading to a reason to come back often.
+
+## Features
+### Starg3n can be hosted locally
+you can download starg3n, from the [releases page](https://github.com/starg3n/starg3n.github.io/releases/latest), or any other way you can download a github repo.
+### More features to come
  
 ## Games
 Starg3n has a wide variety of games. From ports to rom collections to emulators and more, Starg3n's variety of high-quality content is what makes it stand out from the dense crowd of unblocked game websites.
