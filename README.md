@@ -19,6 +19,7 @@ Starg3n has a wide variety of games. From ports to rom collections to emulators 
 - Pico-8 Collection - a small collection of pico-8 roms
 - Bitburner - a text based cookie clicker-type game where you automate hacking
 - Sandboxels - physics sand game
+- Rugg Rouge - a turn based dungeon crawling game
 - Beepbox - small music making tool
 - Gba Collection - every gba game ever released by nintendo
 - Sm64 Wasm - a port of the original super mario 64 to the web
