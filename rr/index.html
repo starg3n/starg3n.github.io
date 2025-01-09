@@ -1,169 +1,44 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-us">
+
 <head>
-<meta charset="utf-8">
-<meta name="description" content="A simple web-playable roguelike.">
-<link rel="icon" type="/image/x-icon" href="/data/favicon.ico">
-<title>RuggRogue - A simple web-playable roguelike</title>
-<style>
-body {
-    background-color: #000;
-    color: #ffc;
-    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
-    margin: 1em auto;
-    max-width: 700px;
-}
-a {
-    color: #fc0;
-}
-h1 {
-    color: #fc0;
-    text-align: center;
-    padding: 0;
-    width: 100%;
-}
-h1 > img {
-    image-rendering: pixelated;
-}
-h2 {
-    font-size: 14pt;
-    font-style: italic;
-    text-align: center;
-    width: 100%;
-}
-#two-button {
-    display: flex;
-    justify-content: space-evenly;
-    margin: 2em 0;
-}
-#two-button > a {
-    background-color: #da0;
-    box-shadow: 8px 8px #850;
-    color: #000;
-    display: table;
-    padding: 1em;
-    text-align: center;
-    text-decoration: none;
-    width: 12em;
-}
-#two-button > a:hover {
-    background-color: #fc0;
-    box-shadow: 8px 8px #a70;
-}
-#two-button > a > b {
-    display: table-cell;
-    vertical-align: middle;
-}
-#two-button > a > sub {
-    font-size: 9pt;
-}
-ul {
-    list-style: square;
-}
-.screenshot {
-    margin: 1.5em 0;
-    text-align: center;
-}
-.screenshot img {
-    border-color: #850;
-    border-style: solid;
-    border-width: 1px;
-}
-footer {
-    color: #bb9;
-    font-size: 9pt;
-    margin: 4rem auto;
-    text-align: center;
-}
-footer > a {
-    color: #b90;
-}
-</style>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="icon" href="../favicon.png" type="image/png">
+    <style>
+        body {
+            background-color: #000;
+            margin: 0;
+        }
+
+        #canvas {
+            background-color: #000;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
-<body>
 
-<h1><img src="img/logo.png" width="398" height="234" alt="RuggRogue"></h1>
-
-<h2>A simple web-playable roguelike</h2>
-
-<div id="two-button">
-<a href="play/"><b>Play in Browser</b></a>
-<a href="https://github.com/tung/ruggrogue/releases">Download<br><sub><i>for Windows and Linux</i></sub></a>
-</div>
-
-<div class="screenshot"><a href="img/screenshot-1.png"><img src="img/screenshot-1.png" width="640" height="396" alt="Screenshot"></a><br>What lies in the depths of the dungeon?</div>
-<div class="screenshot"><a href="img/screenshot-2.png"><img src="img/screenshot-2.png" width="640" height="396" alt="Screenshot"></a><br>Play in classic ASCII mode</div>
-<div class="screenshot"><a href="img/screenshot-3.png"><img src="img/screenshot-3.png" width="640" height="396" alt="Screenshot"></a><br>Gather magical items to aid you on your quest</div>
-<div class="screenshot"><a href="img/screenshot-4.png"><img src="img/screenshot-4.png" width="640" height="396" alt="Screenshot"></a><br>Blast foes from afar!</div>
-
-<p>Features:</p>
-
-<ul>
-<li>Discover new monsters and equipment the deeper you go.</li>
-<li>Hunger and regeneration: stay fed and stay healed!</li>
-<li>Choose between graphical tiles and ASCII display.</li>
-<li>Menu-based UI with hot keys.</li>
-<li>Auto-run to quickly follow corridors and cross open space.</li>
-<li>Save and load system.</li>
-<li>New Game Plus mode!</li>
-</ul>
-
-<p>The controls are mostly similar to many other classic roguelikes.
-Move into monsters to attack them.</p>
-
-<p><i>Movement keys:</i></p>
-
-<ul>
-<li><b>Numpad</b>, <b>Arrows</b>, <b>vi-keys</b> - move in eight directions</li>
-<li><b>Period</b>, <b>Space</b>, <b>Numpad 5</b> - wait a turn</li>
-<li><b>Shift + direction</b> - auto-run</li>
-<li><b>Shift + Space</b> - rest until healed</li>
-<li><b>Enter</b>, <b>&gt;</b> (Shift + Period) - use downstairs</li>
-</ul>
-
-<p><i>Other keys:</i></p>
-
-<ul>
-<li><b>Esc</b> - options menu</li>
-<li><b>v</b> - view mode; move the cursor to view distant tiles</li>
-</ul>
-
-<p><i>Item keys:</i></p>
-
-<ul>
-<li><b>i</b> - inventory menu</li>
-<li><b>g</b>, <b>,</b> (Comma) - pick up item</li>
-</ul>
-
-<p><i>Hot keys:</i></p>
-
-<ul>
-<li><b>a</b> - apply (use) item</li>
-<li><b>d</b> - drop item</li>
-<li><b>w</b>, <b>e</b> - wield weapon or wear armor</li>
-<li><b>r</b> - remove weapon or armor</li>
-</ul>
-
-<p><i>Menu keys:</i></p>
-
-<ul>
-<li><b>Movement keys</b>, <b>Page Up/Page Down/Home/End</b> - move cursor</li>
-<li><b>Enter</b> - confirm selection</li>
-<li><b>Esc</b> - cancel</li>
-</ul>
-
-<p>Hot keys can be used in certain item menus to quickly perform actions.</p>
-
-<p>More info for developers:</p>
-
-<ul>
-<li><a href="https://github.com/tung/ruggrogue">Source Code on GitHub</a> - Made with Rust and SDL.</li>
-<li><a href="source-code-guide/">RuggRogue Source Code Guide</a> - A web book about the ideas, algorithms and structure of the source code.</li>
-</ul>
-
-<p>RuggRogue can also be found on itch.io: <a href="https://tungtn.itch.io/ruggrogue">tungtn.itch.io/ruggrogue</a>.</p>
-
-<footer>&copy; 2022 <a href="https://tung.github.io">Tung Nguyen</a></footer>
-
+<body onunload="FS.syncfs(false, function (err) {})">
+    <canvas id="canvas"></canvas>
+    <script>
+        var Module = {
+            'locateFile': function (path, prefix) {
+                if (path.endsWith(".data")) {
+                    return prefix + "deps/" + path;
+                }
+                return prefix + path;
+            },
+            'canvas': document.getElementById('canvas'),
+            'preRun': [function () {
+                FS.mkdir("/ruggrogue");
+                FS.mount(IDBFS, {}, "/ruggrogue");
+                FS.syncfs(true, function (err) {});
+            }],
+        };
+    </script>
+    <script src="ruggrogue.js"></script>
 </body>
+
 </html>
