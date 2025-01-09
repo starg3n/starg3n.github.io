@@ -1,9 +1,25 @@
-/*☆ guided tour ☆*/
+/*
+
+This is the css file that has all of the rules for any page with a catppuccin theme.
+modify as you wish :)
+
+
+QUICK OVERVIEW:
+Catppuccin Mocha Colors
+Ubuntu Regular as a font
+
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cousine&family=Ubuntu:wght@500&display=swap'); /*load in a font.*/
+/*NOTE TO SELF: OLD FONT WAS VERDANA, SANS-SERIF*/
+
 body {
   margin: 25px; 
   padding: 10px 28px; /*this changes how close items can get to the edge of the screen*/
   background-color: #11111b; /*this changes the bg color*/
-  font-family: Verdana, sans-serif; /* this changes the font */
+  font-family: Ubuntu, regular; /* load in a font for the whole site */
   font-size: 14px;
 }
 
@@ -23,14 +39,14 @@ p { /* normal text, used in the update logs and other places*/
   text-align: center; /*align it to the center*/
 }
 
-a:hover {
+a:hover { /*not sure why this tag is here when it doesn't even work iirc*/
   transform: scale(1.2)
 }
 
 b { /*bold text. I don't know if this is used.*/
   font-size: 20px; 
   font-weight: normal; /*not bold or italic*/
-  margin-top: 5px;
+  margin-top: 5px; 
   color: #c6d0f5; /*color*/
   text-align: center; /*align to center*/
 }

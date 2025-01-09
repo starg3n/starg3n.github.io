@@ -2,4 +2,4 @@
 
 [picoplayer](https://github.com/egordorichev/pico-player/tree/master)
 
-this markdown file was just for me to jot down pieces of code I wanted to hold onto and/or use in the future. it went mostly unused
+this markdown file was just for me to jot down pieces of code I wanted to hold onto and/or use in the future. it went mostly unused.

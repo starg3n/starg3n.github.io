@@ -1,8 +1,8 @@
-htm = ".html"
+
 function goToPage(e) {
-  let url="https://starg3n.github.io/"+e.+".html";  
-  console.log(url);
-  window.location = url;
+  let url="https://starg3n.github.io/"+e.+".html";  // what our input adds onto
+  console.log(url); //log it in the console
+  window.location = url; //take us there
 }
 
 // all this script does is make a textbox that when data is inputted, it adds it to the url.
