@@ -16,6 +16,8 @@ Starg3n (Pronounced stɑː ʤɛn) is a static gamesite project created and maint
 ## Features
 ### Local Hosting
 You can download starg3n, from the [releases page](https://github.com/starg3n/starg3n.github.io/releases/latest), or any other way you can download a github repo. you can then open index.html and every link should work as intended, keeping you in your downloaded "client" (Only on v6.0.0+). If an update is pushed that you dislike, you can always download an older version to play on, making your starg3n experience fully your own.
+> [!WARNING]
+> When downloaded, starg3n is around 1.8 Gigabytes, so keep that in mind if you have low storage. (i.e. Chromebooks)
 ### Customizable
 Every single color and visual feature in Starg3n can be customized using the [css file](https://github.com/starg3n/starg3n.github.io/blob/main/data/style.css). This file has css colors for every page with catppuccin colors.
 Along with this, you can add and remove games as you wish without the whole site breaking. Most major pages have comments explaining what parts do, so if you have very little experience with css, html and javascript, you can still manage to change what you want.
