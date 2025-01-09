@@ -21,7 +21,7 @@ var pico8keys = [
 function PicoPlayer(element, cart, lib) {
   // fallback to bbs version of pico8 console
   if (!lib) {
-    lib = 'picobinary.js';
+    lib = 'https://starg3n.github.io/picobinary.js';
   }
 
   // load element by ID
