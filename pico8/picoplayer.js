@@ -21,7 +21,7 @@ var pico8keys = [
 function PicoPlayer(element, cart, lib) {
   // fallback to bbs version of pico8 console
   if (!lib) {
-    lib = 'https://starg3n.github.io/picobinary.js';
+    lib = 'https://www.lexaloffle.com/play/pico8_0206c.js';
   }
 
   // load element by ID
