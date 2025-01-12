@@ -2,23 +2,19 @@
 <html>
 
 <head>
-  <link rel="stylesheet" href="/data/style.css">
+  <link rel="stylesheet" href="../data/style.css">
   <title>☆ starg3n ds ☆</title>
-  <link rel="icon" type="/image/x-icon" href="/data/favicon.ico">
+  <link rel="icon" type="/image/x-icon" href="../data/favicon.ico">
 </head>
   <body>
     <desmond-player id="player"></desmond-player>
-    <script src="desmond.min.js"></script>
+    <script src="./desmond.min.js"></script>
     <script>
     document.getElementById("player").loadURL("path-to-game.nds");
     </script>
-    <p><a href="index.html">☆ return home ☆</a></p>
-  </body>
-</html>
-
 <desmond-player></desmond-player>
  <input type="file" style="position: absolute; transform: translate(-50%, -50%); left: 50%; top: 95%; color: white;"></input>
- <script src="desmond.min.js"></script>
+ <script src="./desmond.min.js"></script>
  <script>
  document.querySelector("input").onchange = function() {
  document.querySelector("desmond-player").loadURL(URL.createObjectURL(document.querySelector("input").files[0]))
@@ -33,5 +29,8 @@
  }, 1000)
  }
  </script>
+
+ <p><a href="../index.html">☆ return home ☆</a></p>
+
 </body>
 </html>
