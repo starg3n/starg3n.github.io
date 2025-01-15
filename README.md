@@ -50,8 +50,11 @@ _Want to get **your** fork onto this page? create a pull request adding your lin
 
 ## Credits
 Appakling / Starg3n : main development
+
 SixVertical : bugfixes
+
 usrloca1 : got localhost working
+
 gaebean : playtesting 
 
 ## Help
