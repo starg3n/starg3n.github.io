@@ -1,0 +1,16 @@
+{
+    "name": "starg3n.github.io",
+    "version": "1.0.0",
+    "description": "A test of running starg3n in localhost",
+    "repository": "https://github.com/starg3n/starg3n.github.io",
+    "author": "starg3n",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+      "static-server": "^2.2.1",
+      "nodemon": "^2.0.20"
+    },
+    "scripts": {
+      "start": "nodemon --exec static-server -p 8080 -e html"
+    }
+  }
