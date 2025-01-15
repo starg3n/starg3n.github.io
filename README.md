@@ -18,11 +18,28 @@ Starg3n is a static site. this means you can download it from the [releases page
 > [!WARNING]
 > When downloaded, starg3n is around 1.8 Gigabytes, so keep that in mind if you have low storage. (i.e. Chromebooks)
 ### Local Running
-To run starg3n locally- not on github pages- fork the project, give it a star, and open a github codespace. Then in the terminal, run:
+To run starg3n locally- not on github pages- fork the project, give it a star, and open it in a  Github Codespace. Then in the terminal, run:
 ```
 npm start
 ```
-This should open starg3n to ```https://localhost8080```. Codespaces will prompt you to open up the port in your browser.
+If successful, you will get this message: 
+```
+> starg3n.github.io@1.0.0 start
+> nodemon --exec static-server -p 8080 -e html
+
+[nodemon] 2.0.20
+[nodemon] to restart at any time, enter 'rs'
+[nodemon] watching path{s}: *.*
+[nodemon] watching extensions: html
+[nodemon] starting 'static server -p 8080'
+options.index is now deprecreated please use options.template.index instead.
+* Static server successfully started.
+* Serving files at: http://localhost:8080
+* Press Ctrl+C to shutdown
+```
+
+This should open starg3n to ```https://localhost8080```. Github Codespace should prompt you to open up the port in your browser.
+
 ### Customizable
 Every single color and visual feature in Starg3n can be customized using the [css file](https://github.com/starg3n/starg3n.github.io/blob/main/data/style.css). This file has colors, and effects, (along with a guide) for every page with the signature starg3n colors.
 Along with this, you can add and remove games as you wish. Most major pages have comments explaining what parts do, so if you have very little experience with css, html and javascript, you can still manage to change what you want.
