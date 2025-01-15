@@ -1,0 +1,11 @@
+{
+    "updateContentCommand": "yarn install",
+    "postAttachCommand": "yarn start",
+    "forwardPorts": [8080],
+    "portsAttributes": {
+        "8080": {
+            "label": "Website",
+            "onAutoForward": "notify"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="/data/logo.png">
+      <img src=".data/logo.png">
 </p>
 
 <p align="center">
@@ -14,10 +14,16 @@
 Starg3n (Pronounced stɑː ʤɛn) is a static gamesite project created and maintained by [Appak](https://appak.neocities.org), under the _starg3n_ moniker. The goal of starg3n is to provide a plethora of good, high quality games (and tools), easy to accesses from any computer, with a  [Catppuccin](https://catppuccin.com/) Mocha theme to boot. Starg3n also provides an extensive tutorial on forking, helping anyone make make a mirror, a copy, or to contribute to the site. Starg3n is being constantly worked on, with new updates adding more content, leading to a reason to come back often.
 
 ## Features
-### Local Hosting
-You can download starg3n, from the [releases page](https://github.com/starg3n/starg3n.github.io/releases/latest), or any other way you can download a github repo. you can then open index.html and every link should work as intended, keeping you in your downloaded "client" (Only on v6.0.0+). If an update is pushed that you dislike, you can always download an older version to play on, making your starg3n experience fully your own.
+### Static
+Starg3n is a static site. this means you can download starg3n, from the [releases page](https://github.com/starg3n/starg3n.github.io/releases/latest), or any other way you can download a github repo. you can then open index.html and every link should work as intended, keeping you in your downloaded "client" (Only on v6.0.0+). If an update is pushed that you dislike, you can always download an older version to play on, making your starg3n experience fully your own.
 > [!WARNING]
 > When downloaded, starg3n is around 1.8 Gigabytes, so keep that in mind if you have low storage. (i.e. Chromebooks)
+### Run Locally
+To run starg3n locally, fork the project, give it a star, and open a github codespace. Then in the terminal, run:
+```
+npm start
+```
+This should open starg3n to ```https://localhost8080```, where you can then open it in your browser. Codespaces will prompt you to open up the port, so just approve the prompt.
 ### Customizable
 Every single color and visual feature in Starg3n can be customized using the [css file](https://github.com/starg3n/starg3n.github.io/blob/main/data/style.css). This file has css colors for every page with catppuccin colors.
 Along with this, you can add and remove games as you wish without the whole site breaking. Most major pages have comments explaining what parts do, so if you have very little experience with css, html and javascript, you can still manage to change what you want.
