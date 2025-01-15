@@ -41,16 +41,18 @@ Starg3n has a wide variety of games. From ports to rom collections to emulators 
 - Cookie Clicker - a game where you automate clicking a cookie
 
 ## Documentation
-Starg3n being open source means that anyone can fork and edit their own copy. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with documentation on forking, contributing, making sites similar to starg3n, and other useful information, such as game documentation for findning ds roms, flash roms, and more.
+Starg3n being open source means that anyone can fork and edit their own copy. Because of this, Starg3n has an extensive **[Wiki](https://github.com/starg3n/starg3n.github.io/wiki)** with documentation on setting up localhost, contributing, making sites similar to starg3n, and other useful information, such as game documentation for findning ds roms, flash roms, and more.
 
 ## Official Mirrors
 starg3n has a few forks that are the official site, for if the main one goes down.
 _Want to get **your** fork onto this page? create a pull request adding your link!_
 - [LOVEWAREZ Mirror](https://lovewarez.github.io/)
 
-## To do
-- [ ] fix issues
-- [ ] document stuff as it's added 
+## Credits
+Appakling / Starg3n : main development
+SixVertical : bugfixes
+usrloca1 : got localhost working
+gaebean : playtesting 
 
 ## Help
 if you have any problems, you can:
