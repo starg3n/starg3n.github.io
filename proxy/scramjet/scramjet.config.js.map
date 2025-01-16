@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/scramjet.config.ts"],
+  "sourcesContent": ["import { Codec } from \"./codecs\";\r\n\r\ndeclare global {\r\n    interface Window {\r\n        __scramjet$config: {\r\n            prefix: string;\r\n            codec: Codec\r\n            config: string;\r\n            bundle: string;\r\n            worker: string;\r\n            client: string;\r\n            codecs: string;\r\n        }\r\n    }\r\n}\r\n\r\nself.__scramjet$config = {\r\n    prefix: \"/scramjet/\",\r\n    codec: self.__scramjet$codecs.plain,\r\n    config: \"/scramjet.config.js\",\r\n    bundle: \"/scramjet.bundle.js\",\r\n    worker: \"/scramjet.worker.js\",\r\n    client: \"/scramjet.client.js\",\r\n    codecs: \"/scramjet.codecs.js\"\r\n}"],
+  "mappings": ";;AAgBA,OAAK,oBAAoB;AAAA,IACrB,QAAQ;AAAA,IACR,OAAO,KAAK,kBAAkB;AAAA,IAC9B,QAAQ;AAAA,IACR,QAAQ;AAAA,IACR,QAAQ;AAAA,IACR,QAAQ;AAAA,IACR,QAAQ;AAAA,EACZ;",
+  "names": []
+}
