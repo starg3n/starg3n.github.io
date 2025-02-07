@@ -17,7 +17,7 @@ Starg3n (Pronounced stɑː ʤɛn) is a static gamesite project created and maint
 Starg3n is a static site. this means you can download it from the [releases page](https://github.com/starg3n/starg3n.github.io/releases/latest), or any other way you can download a github repo. You can then open ```index.html```, and every link should work as intended, keeping you in your downloaded "client" (Only on v6.0.0+). If an update is pushed that you dislike, you can always download an older version to play on, making your starg3n experience fully customizable.
 > [!WARNING]
 > When downloaded, starg3n is around 1.8 Gigabytes, so keep that in mind if you have low storage. (i.e. Chromebooks)
-### Local Running
+### Local Hosting / Github Codespaces
 If you are unable to download starg3n, you can use Github Codespaces to run it yourself. To learn how to do this, read the [wiki page on it](https://github.com/starg3n/starg3n.github.io/wiki/Starg3n:-Local-Hosting).
 ### Customizable
 Every single color and visual feature in Starg3n can be customized using the [css file](https://github.com/starg3n/starg3n.github.io/blob/main/data/style.css). This file has colors, and effects, (along with a guide) for every page with the signature starg3n colors.
@@ -52,9 +52,9 @@ Appakling / Starg3n : main development
 
 SixVertical : bugfixes
 
-usrloca1 : got localhost working
+UsrLoca1 : got localhost working
 
-gaebean : playtesting 
+Gaebean : playtesting 
 
 ## Help
 if you have any problems, you can:
