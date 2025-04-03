@@ -46,6 +46,7 @@ Starg3n being open source means that anyone can fork and edit their own copy. Be
 starg3n has a few forks that are the official site, for if the main one goes down.
 _Want to get **your** fork onto this page? create a pull request adding your link!_
 - [LOVEWAREZ Mirror](https://lovewarez.github.io/)
+- [mil0besilly Mirror](https://mil0besilly.pages.gay)
 
 ## Credits
 Appakling / Starg3n : main development
